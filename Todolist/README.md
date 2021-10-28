@@ -1,8 +1,15 @@
-# To-Do-App-in-React-code
+# To Do Application
 
- * This is a simple To Do Application in react. This is a fun project that I made while trying to learn and get hands dirty on React.
+ * This is a simple To Do Application in React. 
+ * This is a fun project that I made while trying to learn and get hands dirty on React.
  * In this application, I've used React components, React forms, event handlers etc. 
  * It is a very easy quick application to do.
+
+# Project Description
+
+* Add a ToDo Item to List
+    * Adding text in the provided **input field**
+    * Clicking on **Add** button OR pressing **Tab/Return** on keyboard
 
 
 # Getting Started with Create React App
