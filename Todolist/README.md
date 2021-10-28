@@ -24,9 +24,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## To run the Project on Local Host
 
-In the project directory, you can run:
+Fork the project , Download the sorce code and follow below given steps :
 
 ### `npm start`
 
