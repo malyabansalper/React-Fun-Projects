@@ -1,3 +1,9 @@
+# To-Do-App-in-React-code
+ *This is a simple To Do Application in react. This is a fun project that I made while trying to learn and get hands dirty on React.\n 
+ *In this application, I've used React components, React forms, event handlers etc. 
+ *It is a very easy quick application to do.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
