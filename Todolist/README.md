@@ -4,13 +4,21 @@
  * This is a fun project that I made while trying to learn and get hands dirty on React.
  * In this application, I've used React components, React forms, event handlers etc. 
  * It is a very easy quick application to do.
+ * **Hosted at : https://malya-react-todolist.netlify.app/
 
 # Project Description
 
 * Add a ToDo Item to List
-    * Adding text in the provided **input field**
+    * Adding text in the provided **Input Field**
     * Clicking on **Add** button OR pressing **Tab/Return** on keyboard
+* Edit a ToDo Item in the List
+    * Click on the specific **ToDo** item which is to be edited
+    * **Add** or **Update** text as per requirement
+    * Press **Tab/Return** on keyboard
+* Delete a ToDo from the List
+    * Press the **Trash/Bin** icon at the end of ToDo item to remove it
 
+#### PS:If in case of a long todo entered scroll on the x-axis to view the complete ToDo entered.
 
 # Getting Started with Create React App
 
