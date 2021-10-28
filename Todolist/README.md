@@ -4,7 +4,7 @@
  * This is a fun project that I made while trying to learn and get hands dirty on React.
  * In this application, I've used React components, React forms, event handlers etc. 
  * It is a very easy quick application to do.
- * ** Hosted at : https://malya-react-todolist.netlify.app/
+ * ## Hosted at : https://malya-react-todolist.netlify.app/
 
 # Project Description
 
