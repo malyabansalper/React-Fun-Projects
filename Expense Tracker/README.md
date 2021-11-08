@@ -1,29 +1,17 @@
 # To Do Application
 
- * This is a simple To Do Application in React. 
+ * This is a simple Expense Tracker Application made using ReactJs. 
  * This is a fun project that I made while trying to learn and get hands dirty on React.
  * In this application, I've used React components, React forms, event handlers etc. 
- * It is a very easy quick application to do.
- *  **Hosted at : https://malya-react-todolist.netlify.app/**
+ *  **Hosted at : https://expense-tracker-react-malya.netlify.app**
 
 
 # Project Description
-
-* Add a ToDo Item to List
-    * Adding text in the provided **Input Field**
-    * Clicking on **Add** button OR pressing **Tab/Return** on keyboard
-    
-* Edit a ToDo Item in the List
-    * Click on the specific **ToDo** item which is to be edited
-    * **Add** or **Update** text as per requirement
-    * Press **Tab/Return** on keyboard
-   
-* Delete a ToDo from the List
-    * Press the **Trash/Bin** icon at the end of ToDo item to remove it  
-
-
-#### PS:If in case of a long todo entered scroll on the x-axis to view the complete ToDo entered.
-
+* Add the name of Expense in the given input field
+* Add Expense Amount in the following field
+   * Add a positive number for income
+   * Add a negative number for money spent/Expense
+* To delete an item from the list hover and click the "X" button on extreme left to delete.
 
 
 # Getting Started with Create React App
