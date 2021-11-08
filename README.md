@@ -1,2 +1,2 @@
 # React Fun Projects
-Some reactJs Fun projects made by me while learning.
+Some ReactJs Fun projects made by me while learning.
