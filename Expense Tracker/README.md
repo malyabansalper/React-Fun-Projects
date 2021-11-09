@@ -1,4 +1,4 @@
-# To Do Application
+# Expense Tracker Application
 
  * This is a simple Expense Tracker Application made using ReactJs. 
  * This is a fun project that I made while trying to learn and get hands dirty on React.
