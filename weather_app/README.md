@@ -1,5 +1,5 @@
 It is a simple weather website that updates background with city images.<br />
-Hosted Link: https://weather-app-shivam.netlify.app
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
