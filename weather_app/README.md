@@ -1,4 +1,5 @@
 It is a simple weather website that updates background with city images.<br />
+Hoisted at : https://react-weather-app-by-malya.netlify.app
 
 
 
