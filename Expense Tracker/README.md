@@ -3,7 +3,7 @@
  * This is a simple Expense Tracker Application made using ReactJs. 
  * This is a fun project that I made while trying to learn and get hands dirty on React.
  * In this application, I've used React components, React forms, event handlers,Hooks etc. 
- *  **Hosted at : https://expense-tracker-reactjs-malya.netlify.app/**
+ *  **Hosted at : https://malya-reactjs-expense-tracker-app.netlify.app**
 
 
 # Project Description
