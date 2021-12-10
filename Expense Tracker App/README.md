@@ -8,12 +8,8 @@
 
 # Project Description
 * Add the name of Expense in the given input field
-* Add Expense Amount in the following field
-   * Add a positive number for income
-   * Add a negative number for money spent/Expense
-* To delete an item from the list hover and click the "X" button on extreme left to delete.
-
-
+* Add Expense Amount in the provided field
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
